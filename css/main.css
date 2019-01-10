@@ -1,0 +1,16 @@
+h1,
+h2,
+li {
+    color: skyblue
+}
+
+.navbar {
+    background: #7db6df;
+}
+
+.jumbotron {
+    background: url("http://fillmurray.com/1000/2000");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
